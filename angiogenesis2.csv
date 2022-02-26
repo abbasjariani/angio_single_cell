@@ -1,0 +1,892 @@
+Gene,Phenotype,Inheritance, location,Gene Function,REFERENCES
+ ADGRB2,,, 1p35.2  ,ADHESION G PROTEIN-COUPLED RECEPTOR,Shiratsuchi et al. (1997)
+ ADGRB1,,, 8q24.3  ,ADHESION G PROTEIN-COUPLED RECEPTOR,"Nishimori et al. (1997)
+ Shiratsuchi et al. (1998)
+Park et al. (2007)"
+ ADGRB3,,, 6q12-q13,ADHESION G PROTEIN-COUPLED RECEPTOR," Scuderi et al., 2019"
+AIMP1,"Leukodystrophy, hypomyelinating, 3",AR,4q24  , cytokine and tRNA-binding activities,"(Quevillon et al., 1997)"
+PANTR1,,, 2q12.1 ,"Long intergenic noncoding RNAs 
+gene regulation, imprinting, cell differentiation, immune responses, tumorigenesis"," Guo et al., 2015 
+
+"
+PGF,AGING-ASSOCIATED GENE 13,,14q24.3 ," PLACENTAL GROWTH FACTOR
+","Fischer et al., 2007; Bais et al., 2010"
+SDHA,"1.Cardiomyopathy, dilated, 
+2.Mitochondrial complex II deficiency, nuclear type 1	
+3.Neurodegeneration with ataxia and late-onset optic atrophy
+4.Paragangliomas 5","1.AR
+2.AR
+3.AD
+4.AD",5p15.33,"Complex II of the mitochondrial respiratory chain
+SUCCINATE DEHYDROGENASE COMPLEX",Mills et al. (2018)
+TM4SF1,,,3q25.1  ,"TUMOR-ASSOCIATED ANTIGEN 
+growth, motility, invasion, and metastasis of tumor cells"," Shih et al., 2009"
+SERPINA4,,,14q32.13 ,"SERPIN PEPTIDASE INHIBITOR
+heparin-binding protein", Miao et al. (2000)
+ ADGRA2,,,8p11.23 ,"ADHESION G PROTEIN-COUPLED RECEPTOR 
+regulate sprouting, migration, and developmental expression of the blood-brain",Kuhnert et al. (2010) 
+ ISM1,,,20p12.1 , secreted angiogenesis inhibitor,Zhang et al. (2011)
+OR10J5,,,1q23.2  ,G protein-coupled receptors," (Griffin et al., 2009)
+ (Kim et al., 2015)"
+MIR503,,,Xq26.3    , small noncoding RNAs," Caporali et al., 2011
+"
+VASH1,,,14q24.3 ,angiogenesis inhibitor,"(Suzuki et al., 2010
+"
+LRG1,,,19p13.3,"protein-protein interaction, signal transduction, and cell adhesion and development","(O'Donnell et al., 2002"
+MIRN378,,,5q32 , inhibit translation of target mRNAs,"(Lee et al., 2007)"
+MIR126,,,9q34.3  , inhibit translation of target mRNAs,"(Zhang et al., 2008)"
+MINAR1,,,15q25.1  ,"negatively regulates angiogenesis
+intrinsically disordered cell surface receptor","(Ho et al., 2018)"
+FMNL3,,,12q13.12,regulate actin and cytoskeletal dynamics and cell elongation," Hetheridge et al., 2012"
+UNC5B,,,10q22.1 ,"negatively regulates vascular branching during angiogenesis
+netrin receptor","Komatsuzaki et al. (2002)
+"
+WLS,,,1p31.3   ," anterior-posterior axis formation, cell polarity, and cell migration", Banziger et al. (2006)
+CCL28,,,5p12  ,"regulates the chemotaxis of cells that express the chemokine receptors ,mucosae-associated epithelial chemokine ","  Wang et al. (2000)
+"
+ CLEC14A,,,14q21.1 ,"type I transmembrane proteins ,
+ contributes to cell adhesion and angiogenesis","(Rho et al., 2011)
+"
+UBP1,,,3p22.3   ,"UPSTREAM BINDING PROTEIN,
+regulation of the alpha-globin gene in erythroid cells",Yoon et al. (1994)
+MMRN2,,,10q23.2 ,"elastin microfibril interface-located (EMILIN) protein family
+,Inhibits endothelial cells motility and acts as a negative regulator of angiogenesis","Christian et al. (2001)
+"
+EDIL3,,,5q14.3 ,glycoprotein that is secreted by endothelial cells,"(Choi et al., 2008)"
+SERPINF1,"Osteogenesis imperfecta, type VI",AR,17p13.3  ,"SERPIN PEPTIDASE INHIBITOR,
+exhibit neurotrophic activity","Steele et al. (1993)
+ Dawson et al. (1999)"
+ARHGAP35,,,19q13.32  ,"glucocorticoid receptor,
+damping the response of the liver to glucocorticoid stimulation"," (LeClerc et al., 1991)"
+AKAP12,,,6q25.1 ,"A-kinase anchor proteins,
+binding to the regulatory subunit of (PKA) and confining the holoenzyme to discrete locations within the cell.",Lee et al. (2003)
+THBS1,,,15q14  ,"multimodular secreted protein,
+potent antiangiogenic activity",De Fraipont et al. (2000)
+ KDR,"1.Hemangioma, capillary infantile, somatic
+2.{Hemangioma, capillary infantile, susceptibility to}",2.AD, 4q12 ,growth factor receptor tyrosine kinase,"(Terman et al., 1991)"
+ TMIGD2,,,19p13.3   ,"IMMUNOGLOBULIN AND PROLINE-RICH RECEPTOR
+,contributes to cell adhesion and migration","(Rahimi et al., 2012)"
+MIR92A1,,,13q31.3 , small noncoding RNAs,Bonauer et al. (2009) 
+ITGB5,,, 3q21.2 ,"Integrins are a family of heterodimeric glycoproteins,
+mediate cell-to-cell and cell-to-extracellular matrix interactions.","Busk et al., 1992
+
+"
+CXCL9,,,4q21.1 ,SMALL INDUCIBLE CYTOKINE SUBFAMILY, Lee and Farber (1996)
+PTPRB,,,12q15 ,VASCULAR ENDOTHELIAL PROTEIN-TYROSINE PHOSPHATASE, Kaplan et al. (1990)
+NAXE,"Encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy",AR,1q22 ,APOLIPOPROTEIN A-I-BINDING PROTEIN," Kremer et al., 2016"
+ADGRL4,,,1p31.1  ,"G protein-coupled receptor ,
+ surface of endothelial cells and vascular smooth muscle"," (Masiero et al., 2013)
+"
+SLIT3,,,5q34-q35.1 ,MULTIPLE EPIDERMAL GROWTH FACTOR-LIKE DOMAINS, Zhang et al. (2009) 
+CNMD,,,13q14.3 ," cartilage-specific glycoprotein that stimulates the growth of chondrocytes,
+inhibits the tube formation of endothelial cells","(Hiraki et al., 1999)"
+METAP2,,,12q22 ,EUKARYOTIC INITIATION FACTOR 2-ASSOCIATED PROTEIN,Datta et al. (1988)
+ING4,,,12p13.31  ,INHIBITOR OF GROWTH,Shiseki et al. (2003)
+VEGFA,{Microvascular complications of diabetes 1},,6p21.1  ,"Vascular endothelial growth factor,
+induce angiogenesis"," Leung et al., 1989"
+ROBO4,Aortic valve disease 3,AD,11q24.2 ,mediates inhibition of vascular endothelial cell migration,Huminiecki et al. (2002)
+MIR20B,,,Xq26.2   ,small noncoding RNAs,"  Yamaguchi et al., 2014"
+EFNB2,,,13q33.3 ,receptor protein-tyrosine kinases,Sakano et al. (1996) 
+RRAS,,, 19q13.33   ,"uperfamily of small GTP-binding proteins,
+promoting cell adhesion and neurite outgrowth",Oinuma et al. (2004)
+ZNF580,,,19q13.42 ,transcriptional regulator involved in endothelial cell proliferation and migration,"(Sun et al., 2010)"
+XCL2,,,1q24.2,regulate cell trafficking of various types of leukocytes through interactions,"  Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+XCL1,,,1q24.2 ,regulate cell trafficking of various types of leukocytes through interactions," Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+THBS2,"{Lumbar disc herniation, susceptibility to}",,6q27  ,secretory product of platelet alpha-granules,"(Baenziger et al., 1971)"
+VEGFB,,,11q13.1 ,GROWTH FACTOR-RELATED FACTOR," Hagberg et al., 2010"
+FLT4,"1.Congenital heart defects, multiple types, 7
+2.Hemangioma, capillary infantile, somatic
+3.Lymphatic malformation 1","1.AD
+2.-
+3.AD",5q35.3 ,FMS-LIKE TYROSINE KINASE,"(Pajusola et al., 1992"
+RHOJ,,,14q23.2,Small GTP-binding proteins,Vignal et al. (2000)
+POSTN,,,13q13.3 ,OSTEOBLAST-SPECIFIC FACTOR,Gillan et al. (2002)
+JUND,,,19p13.11  ,transcription factor,Berger and Shaul (1991)
+CXCL5,,,4q13.3 ," regulate cell trafficking of various types of leukocytes,
+G protein-coupled receptors"," Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+ID1,,,20q11.21 , regulate tissue-specific transcription within several cell lineages,"Sun et al., 1991; Wilson et al., 1991"
+ CYP4Z2P,,,1p33,transcribed pseudogene that appears to function as a competitive endogenous RNA,"Zheng et al., 2015"
+ COL18A1,"1.Glaucoma, primary closed-angle
+2.Knobloch syndrome, type 1","1.AD
+2.AR",21q22.3   ,COLLAGEN,Oh et al. (1994) 
+CXCL3,,,4q13.3," regulate cell trafficking of various types of leukocytes,
+G protein-coupled receptors"," Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+NRP1,,,10p11.22  ,"VASCULAR ENDOTHELIAL GROWTH FACTOR  RECEPTOR,
+ angiogenesis, axon guidance, cell survival, migration, and invasion", He and Tessier-Lavigne (1997)
+VASH2,,,1q32.3  ,transcriptionally activated and promotes angiogenesis, Shibuya et al. (2006)
+TUSC2,,,3p21.31 ,"Decrease cell growth, induce G1 cell cycle arrest, and promote apoptosis ",Lee et al. (2007)
+SUCNR1,,,3q25.1 ,receptor for the citric acid cycle intermediate succinate,"(He et al., 2004)"
+ANGPT2,lymphatic malformation 10,AD,8p23.1  ,antagonist of angiopoietin-1 that competes for binding to the TIE2 receptor and blocks ANGPT1-induced TIE2 autophosphorylation during vasculogenesis,Tanaka et al. (1999)
+RECK,,,9p13.3  ,membrane-bound glycoprotein that inhibits matrix metalloproteinases with the function of breaking-down the ECM,Park et al. (2013)
+SDC4,,,20q13.12 ,transmembrane (type I) heparan sulfate proteoglycan that functions as a receptor in intracellular signaling, Baciu et al. (2000)
+CXCL6,,,4q13.3,"Regulate cell trafficking of various types of leukocytes through interactions with a subset of 7-transmembrane, G protein-coupled receptors"," Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+NCKIPSD,,,3p21.31  ,"signal transduction, maintenance of sarcomeres and in the assembly of myofibrils into sarcomeres",Rahimi et al. (2012)
+ FLT1,,,13q12.3 ,tyrosine protein kinase activity that is important for the control of cell proliferation and differentiation., Yoshida et al. (1987) 
+WARS1,"Neuronopathy, distal hereditary motor, type IX",AD,14q32.2  ,TRYPTOPHANYL-tRNA SYNTHETASE,"(Tolstrup et al., 1995; Turpaev et al., 1996)"
+ TIE1,Lymphatic malformation 11,AD,1p34.2 ,PROTEIN RECEPTOR TYROSINE KINASE,"(Korhonen et al., 2016)"
+KLF2,,,19p13.11 ,"zinc finger transcription factors that play key roles in differentiation, quiescence, and homeostasis of many cell lineages"," Richardson et al., 2012"
+ANPEP,,,15q26.1 , potent angiogenic regulator ,"(Kruse et al., 1988)"
+CXCL10,,,4q21.1  ,"Regulate cell trafficking of various types of leukocytes through interactions with a subset of 7-transmembrane,
+ G protein-coupled receptors", Angiolillo et al. (1995)
+TNNI2,"	Arthrogryposis, distal, type 2B1",AD,11p15.5  ,calcium-mediated regulation of striated muscle contraction,"Wade et al., 1990"
+MTCP1,,,Xq28  ,signal-transduction pathway,Gritti et al. (1998)
+ENG,"Telangiectasia, hereditary hemorrhagic, type 1",AD,9q34.11 ,homodimeric membrane glycoprotein primarily associated with human vascular endothelium.,"(Rius et al., 1998)"
+BRCC3,,,Xq28 ,"inflammasome activity, interferon signaling, and DNA damage repair",Dong et al. (2003) 
+ANGPTL6,,,19p13.2  ,ANGIOPOIETIN-RELATED GROWTH FACTOR,Oike et al. (2003) 
+MIR132,,, 17p13.3 ,small noncoding RNAs that regulate the stability or translation of their target mRNAs,"(Cheng et al., 2007)"
+WNT5A,"Robinow syndrome, autosomal dominant 1",AD,3p14.3  ,"secreted proteins that control essential developmental processes such as embryonic patterning
+, cell growth, migration, and differentiation","Mikels and Nusse, 2006"
+ PI4K2A,,,10q24.2   ,ranging from cell growth and organization of the actin cytoskeleton to endo- and exocytosis,"Barylko et al., 2001"
+ MMP2,"Multicentric osteolysis, nodulosis, and arthropathy",AR,16q12.2,the major structural component of basement membranes,"(Nagase et al., 1992)"
+CYP4Z1,,,1p33  ,catalyzes in-chain hydroxylation of lauric acid and myristic acid,"(Zollner et al., 2009)"
+TIMP2,,,17q25.3  ,TISSUE INHIBITOR OF METALLOPROTEINASE,Stetler-Stevenson et al. (1989)
+ANGPT1,"Angioedema, hereditary, 5",AD,8q23.1 ,angiogenic growth factor with antipermeability and antiinflammatory properties," Chen et al., 2010"
+SRF,,,6p21.1  , control regions of numerous serum-inducible and muscle-specific gene,"(Spencer et al., 1999)"
+MIR30E,,,1p34.2  ,"small regulatory RNAs that negatively regulate mRNA targets
+ in a sequence-specific manner","(Jiang et al., 2012)"
+ITGB1BP1,,,2p25.1  ,transmembrane heterodimeric receptors for extracellular matrix and cell surface proteins," Chang et al., 2002"
+NDST1,"Mental retardation, autosomal recessive 46",AR,5q33.1 ,heparan sulfate biosynthesis,"(Aikawa et al., 2001)"
+ CCR10,,,17q21.2 ," regulate cell trafficking of various types of leukocytes through interactions with a subset of 7-transmembrane,
+ G protein-coupled receptors","Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+NTN1,Mirror movements 4,AD,17p13.1 ,"an extracellular secreted protein that mediates axon guidance
+ in the spinal cord during development"," Meneret et al., 2017"
+CCR4,,, 3p22.3  ,"egulate cell trafficking of various types of leukocytes through interactions 
+with a subset of 7-transmembrane, G protein-coupled receptors"," Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+ EGFL7,,,9q34.3 ,VASCULAR ENDOTHELIAL STATIN,Soncin et al. (2003)
+ GLUL,"Glutamine deficiency, congenital",AR,1q25.3 ,"main source of energy and is involved in cell proliferation
+, inhibition of apoptosis, and cell signaling","(Haberle et al., 2005)"
+PROK2,Hypogonadotropic hypogonadism 4 with or without anosmia,AD,3p13 ,"development of a group of nerve cells
+ that are specialized to process smells",Cheng et al. (2002) 
+ ARHGAP24,,,4q21.23-q21.3,"actin remodeling, cell polarity, and cell migration","(Katoh and Katoh, 2004)"
+TIMP3,Sorsby fundus dystrophy ,AD,22q12.3  , inhibitors of metalloproteinase,Apte et al. (1994)
+MIR17HG,,,13q31.3 ,"MICRO RNA, cell survival, proliferation, differentiation, and angiogenesis","Olive et al., 2009"
+NPY,,,7p15.3 ,neurotransmitter during cellular communication.,Minth et al. (1984)
+RCAN1,,,21q22.12 ,REGULATOR OF CALCINEURIN ,Fuentes et al. (1995)
+ITGAV,,,2q32.1  ,"INTEGRIN,  receptors for extracellular matrix (ECM)-mediated 
+cell adhesion and migration, cytoskeletal organization,
+ cell proliferation, survival, and differentiation.",Suzuki et al. (1986)
+BAIAP3,,,16p13.3 , interacts with brain-specific angiogenesis inhibitor-1,Shiratsuchi et al. (1998) 
+DLL4,Adams-Oliver syndrome 6 ,AD,15q15.1, transmembrane ligand for Notch receptor,"Suchting et al., 2007"
+PTHLH,"Brachydactyly, type E2 ",AD,12p11.22 ,"regulates endochondral bone development and epithelial-mesenchymal
+ interactions during the formation of the mammary glands and teeth",Moseley et al. (1987)
+TP53TG3,,,16p11.2 , p53/TP53-mediating signaling pathway.,"(Ng et al., 1999)"
+PTGS1,,,9q33.2 ,Prostaglandin-endoperoxide synthase,"(Funk et al., 1991; Vane et al., 1994)"
+MMP9,Metaphyseal anadysplasia 2 ,,20q13.12 ,MATRIX METALLOPROTEINASE ,Nagase et al. (1992). 
+CCL27 ,,,9p13.3 ,CHEMOKINE,"Strieter et al., 1995; Zlotnik and Yoshie, 2000)."
+PDGFD ,,,11q22.3,"GROWTH FACTOR,  involved in developmental and physiologic processes","(LaRochelle et al., 2001)"
+FKBPL ,,,6p21.32 ," plays roles in cellular stress response , 
+steroid hormone signaling","Robson et al., 1999, McKeen et al., 2008"
+CCL20 ,,,2q36.3,CHEMOKINE,"Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+LGALS1 ,,,22q13.1 ,"regulating apoptosis, cell proliferation and cell differentiation",Gitt and Barondes (1986)
+CCR9 ,,,3p21.31 ,CHEMOKINE,"Strieter et al., 1995; Zlotnik and Yoshie, 2000). "
+CXCL2 ,,,4q13.3,CHEMOKINE,"Strieter et al., 1995; Zlotnik and Yoshie, 2000)"
+CREB3L1 ,"Osteogenesis imperfecta, type XVI ",AR,11p11.2,Transcription factor involved in unfolded protein response,"Mellor et al., 2013"
+HSD11B1 ,Cortisone reductase deficiency 2 ,AD,1q32.2 ,"Catalyzes reversibly the conversion of cortisol to the inactive
+ metabolite cortisone","(Lakshmi and Monder, 1988)(Agarwal et al., 1989)Tannin et al. (1991) "
+SPRED1,Legius syndrome ,AD,15q14 ,regulate growth factor-induced activation of the MAP kinase cascade,"Nonami et al., 2004"
+PI5 ,,,18q21.33 ,PROTEASE INHIBITOR,Zou et al. (1994)
+EGR1 ,,,5q31.2 ,early growth response,"Sukhatme et al., 1988"
+PLG ,"1. Angioedema, hereditary, 4 
+2. Dysplasminogenemia
+3. Plasminogen deficiency, type I ","AD
+AR
+AR",6q26,PLASMINOGEN,Forsgren et al. (1987)
+MEOX2 ,,,7p21.2 ,MESENCHYME HOMEOBOX,Candia et al. (1992)
+HIF1A ,,,14q23.2  ,"transcription factor that plays an essential role in cellular and systemic
+ homeostatic responses to hypoxia. HYPOXIA-INDUCIBLE FACTOR 1, ALPHA SUBUNIT","Wang et al., 1995"
+TNFSF15 ,,,9q32  ,"TUMOR NECROSIS FACTOR LIGAND SUPERFAMILY,
+ that regulate cell proliferation, immune regulation, and inflammation",Tan et al. (1997)
+EVR1 ,"1. Exudative vitreoretinopathy 1 
+2. Retinopathy of prematurity ","AD
+AD",11q14.2 ,"EXUDATIVE VITREORETINOPATHY,development of the retinal vasculature","Poulter et al., 2010"
+BMPER , 	Diaphanospondylodysostosis ,AR,7p14.3 ,"BONE MORPHOGENETIC PROTEIN-BINDING
+ ENDOTHELIAL REGULATOR PROTEIN",Moser et al. (2003) 
+PF4 ,,,4q13.3 ,PLATELET FACTOR,"Eisman et al., 1990"
+KRIT1 ,"1. Cavernous malformations of CNS and retina 
+2. Cerebral cavernous malformations-1 
+3. Hyperkeratotic cutaneous capillary-venous malformations associated with cerebral capillary malformations ","AD
+AD
+AD",7q21.2  ,regulate KREV1 activities,Serebriiskii et al. (1997)
+EPHB4 ,"1. Capillary malformation-arteriovenous malformation 2
+2. Lymphatic malformation 7  ","AD
+AD",7q22.1   ,EPHRIN RECEPTOR ,Bennett et al. (1994)
+IL17F ,"Candidiasis, familial",AD,6p12.2 ,"INTERLEUKIN 17F, regulation of normal versus aberrant T-cell responses.",Starnes et al. (2001)
+ANG ,Amyotrophic lateral sclerosis 9 ,,14q11.2 ,"encodes angiogenin,that is a potent inducer of neovascularization ","Lambrechts et al., 2003"
+PLXDC2 ,,,10p12.31,"PLEXIN DOMAIN-CONTAINING PROTEIN, transmembrane protein",St Croix et al. (2000)
+CXCR2 ,WHIM syndrome 2 ,,2q35 ,CHEMOKINE,"Zlotnik and Yoshie, 2000"
+CXCL1 ,,,4q13.3 ,CHEMOKINE,"Strieter et al., 1995; Zlotnik and Yoshie, 2000"
+CCN1 ,,,1p22.3 ,promotes the adhesion of endothelial cells,"Babic et al., 1998"
+AGGF1 ,,,5q13.3 ,potent angiogenic factor,"Tian et al., 2004"
+LMO2,"Leukemia, acute T-cell ",,11p13  ,crucial role in hematopoietic development ,Boehm et al. (1991)
+GTF2I ,,,7q11.23 ,TRANSCRIPTION FACTOR,"Roy et al., 1997"
+NR2F2,"1. 46,XX sex reversal 5 
+2. Congenital heart defects, multiple types, 4 ","AD
+AD",15q26.2 ,NUCLEAR RECEPTOR,Ladias and Karathanasis (1991)
+AQP1 ,"1. [Aquaporin-1 deficiency] 
+2. [Blood group, Colton] ",,7p14.3  ,integral membrane protein,Denker et al. (1988)
+DRD2 ,,,11q23.2 ,DOPAMINE RECEPTOR,"Neville et al., 2004"
+ANGPTL4 ,"Plasma triglyceride level QTL, low ",AD,19p13.2  ,regulation of systemic lipid metabolism or glucose homeostasis,Yoon et al. (2000) 
+COL4A3 ,"1. Alport syndrome 2, autosomal recessive 
+2. Alport syndrome 3, autosomal dominant 
+3. Hematuria, benign familial ","AR
+AD
+AD",2q36.3  ,COLLAGEN,"Bernal et al., 1993; Mariyama et al., 1994; Hamano and Kalluri, 2005)"
+CSF1 ,,,1p13.3,CSF1 is a cytokine required for differentiation of monocyte lineage cells,"(Kubota et al., 2009)"
+CCDC88A ,PEHO syndrome-like ,AR,2p16.1  ,"actin-binding protein girdin, 
+which plays essential roles in the migration of fibroblasts,
+ endothelial cells, cancer cells, and neuronal cells"," Nahorski et al., 2016"
+HGF ,"Deafness, autosomal recessive 39 ",AR,7q21.11 ,HEPATOCYTE GROWTH FACTOR,Gohda et al. (1988) 
+S1PR2 ,"Deafness, autosomal recessive 68 ",AR,19p13.2 ,"regulates cell proliferation, apoptosis, motility, and neurite retraction","Chun et al., 2002"
+CCM2 ,Cerebral cavernous malformations-2 ,AD,7p13 ,"cytoskeletal elements, signal transduction components, and cell junctions","Hogan et al., 2008"
+ID3 ,,,1p36.12  ,INHIBITOR OF DNA BINDING,Ellmeier et al. (1992)
+FZD4 ,"1. Exudative vitreoretinopathy 1 
+2. Retinopathy of prematurity ","AD
+AD",11q14.2 ,"FRIZZLED CLASS RECEPTOR, that is receptor for Wnt signaling protein",Kirikoshi et al. (1999)
+TGFBR1 ,"1. Loeys-Dietz syndrome 1 
+2. {Multiple self-healing squamous epithelioma, susceptibility to} ","AD
+AD",9q22.33 ,receptor for transforming growth factor-beta ,"Ebner et al., 1993"
+NAMPT ,,,7q22.3 ,converts nicotinamide (vitamin B3) to nicotinamide mononucleotide,"Revollo et al., 2004"
+CXCL8 ,,,4q13.3,CHEMOKINE,"Hull et al., 2001"
+AKT1 ,"1. Breast cancer, somatic 
+2. Colorectal cancer, somatic 
+3. Cowden syndrome 6 
+4. Ovarian cancer, somatic 
+5. Proteus syndrome, somatic ",,14q32.33  ,serine-threonine protein kinase,Staal (1987)
+ETS1 ,,,11q24.3,"transcriptions factor, regulate numerous genes and are involved
+ in stem cell development,
+ cell senescence and death, and tumorigenesis",Watson et al. (1988) 
+PTTG1 ,,,5q33.3  , REGULATOR OF SISTER CHROMATID SEPARATION,Dominguez et al. (1998)
+GATA2 ,"1. Emberger syndrome 
+2. Immunodeficiency 21 
+3. {Leukemia, acute myeloid, susceptibility to} 
+4. {Myelodysplastic syndrome, susceptibility to} ","AD
+AD
+ AD, SMu ",3q21.3 ,"transcription factor, regulators of gene expression in hematopoietic cells","(Tsai et al., 1994)"
+AGTR1 ,"1. Renal tubular dysgenesis 
+2. {Hypertension, essential} ","AR
+Mu",3q24 ,ANGIOTENSIN II RECEPTOR,"Murphy et al., 1991"
+PGK1 ,Phosphoglycerate kinase 1 deficiency ,XLR,Xq21.1  ,PHOSPHOGLYCERATE KINASE,Michelson et al. (1983)
+ ITGB1 ,,,10p11.22   ,INTEGRIN,"Pytela et al., 1986; Johansson et al., 1987"
+PTGS2 ,,,1q31.1  ,prostaglandin synthesis,Hla and Neilson (1992) and Tazawa et al. (1994)
+TLR2 ,"1. {Colorectal cancer, susceptibility to} 
+2. {Leprosy, susceptibility to} 
+3. {Mycobacterium tuberculosis, susceptibility to} "," AD, SMu 
+AD",4q31.3  ,"TOLL-LIKE RECEPTOR, cell-mediated immunity",Chaudhary et al. (1998)
+EDF1 ,,,9q34.3 ,endothelial differentiation,Dragoni et al. (1998)
+HSPG2 ,"1. Dyssegmental dysplasia, Silverman-Handmaker type 
+2. Schwartz-Jampel syndrome, type 1 ","AR
+AR",1p36.12 ,"binds to various basement membrane proteins,
+ such as collagen IV and laminin-1, and to cell surface receptors","Nicole et al., 2000"
+NOTCH1 ,"1. Adams-Oliver syndrome 5 
+2. Aortic valve disease 1 ","AD
+AD",9q34.3 ,"transmembrane receptors 
+that regulate cell fate decisions during development","(Das et al., 2004)"
+CXCL12 ,"{AIDS, resistance to} ",,10q11.21  ,CHEMOKINE,Nishikawa et al. (1988)
+SUFU ,"1. Basal cell nevus syndrome
+2. Joubert syndrome 32 
+3. Medulloblastoma, desmoplastic 
+4. {Meningioma, familial, susceptibility to}  ","AD
+AR
+ AD, AR, SMu 
+AD",10q24.32 ,encodes a component of the Sonic hedgehog /Patched  signaling pathway,Kogerman et al. (1999)
+KL ,"?Tumoral calcinosis, hyperphosphatemic, familial, 3 ",AR,13q13.1  ,"transmembrane protein, 
+control over the sensitivity of the organism to insulin,
+and appears to be involved in ageing
+α-klotho changes cellular calcium homeostasis
+",Kuro-o et al. (1997)
+FOXO1A ,"Rhabdomyosarcoma, alveolar ",Smu,13q14.11 ,transcription factors,Galili et al. (1993)
+HTRA1 ,"1. CARASIL syndrome 
+2. Cerebral arteriopathy, autosomal dominant, with subcortical infarcts and leukoencephalopathy, type 2 
+3. {Macular degeneration, age-related, 7} 
+4. {Macular degeneration, age-related, neovascular type}","AR
+AD",10q26.13,serine proteases,Zumbrunn and Trueb (1996)
+GATA4 ,"1. Testicular anomalies with or without congenital heart disease 
+2. Atrial septal defect 2 
+3. Atrioventricular septal defect 4 
+4. Tetralogy of Fallot 
+5. Ventricular septal defect 1 ","AD
+AD
+AD
+AD
+AD",8p23.1 ,"transcription factor that control gene expression and differentiation
+ in a variety of cell types","Arceci et al., 1993"
+PIK3CA ," 	1. Breast cancer, somatic 	 		
+2. CLAPO syndrome, somatic 	 		
+3. CLOVE syndrome, somatic 	 		
+4. Colorectal cancer, somatic 	 		
+5. Cowden syndrome 5 	 		
+6. Gastric cancer, somatic 	 		
+7. Hepatocellular carcinoma, somatic 	 		
+8. Keratosis, seborrheic, somatic 	 		
+9. Macrodactyly, somatic, (3), Cerebral cavernous malformations 4, somatic 	 		
+10. Megalencephaly-capillary malformation-polymicrogyria syndrome, somatic 	 		
+11. Nevus, epidermal, somatic 	 		
+12. Nonsmall cell lung cancer, somatic 	 		
+13. Ovarian cancer, somatic ",,3q26.32 ,PHOSPHATIDYLINOSITOL 3-KINASE,Hiles et al. (1992)
+ITGB3 ,"1. Bleeding disorder, platelet-type, 24, autosomal dominant 
+2. Glanzmann thrombasthenia 2 
+3. Purpura, posttransfusion 
+4. Thrombocytopenia, neonatal alloimmune 
+5. {Myocardial infarction, susceptibility to} ",,17q21.32,"INTEGRIN,adhesive protein receptor ","Bray et al., 1987 and Bajt et al., 1992"
+E2F1 ,,,20q11.22 ,TRANSCRIPTION FACTOR,"Morris et al., 2008"
+OGFR ,,,20q13.33 ,growth factor receptor,Zagon et al. (2000)
+LEP ,"Obesity, morbid, due to leptin deficiency ",AR,7q32.1 ,"LEPTIN that plays a critical role 
+in the regulation of body weight by inhibiting food intake ",Masuzaki et al. (1995)
+PTEN ,"1. Cowden syndrome 1 
+2. Lhermitte-Duclos syndrome 
+3. Macrocephaly/autism syndrome 
+4. Prostate cancer, somatic 
+5. {Glioma susceptibility 2} 
+6. {Meningioma} ","AD
+AD
+AD
+
+
+AD",10q23.31 ,tumor suppressor dual-specificity phosphatase in signaling pathway," Pezzolesi et al., 2007"
+TP53," 	1. Bone marrow failure syndrome 5 	
+2. Breast cancer, somatic 	
+3. Hepatocellular carcinoma, somatic 	
+4. Li-Fraumeni syndrome 	
+5. Nasopharyngeal carcinoma, somatic 	
+6. Pancreatic cancer, somatic 	
+7. {Adrenocortical carcinoma, pediatric} 	
+8. {Basal cell carcinoma 7} 	
+9. {Choroid plexus papilloma} 	
+10. {Colorectal cancer} 	
+11. {Glioma susceptibility 1} 	
+12. {Osteosarcoma} ","AD
+
+
+AD
+
+
+AD
+AD
+AD
+ AD, SMu 
+ AD, SMu 
+SMu",17p13.1 ," induce cell cycle arrest, apoptosis, senescence, DNA repair, or changes in metabolism","Toledo and Wahl, 2006; Bourdon, 2007; Vousden and Lane, 2007"
+GPC1 ,,,2q37.3  ,"GLYPICAN,Cell surface heparan sulfate proteoglycans
+ are composed of a membrane-associated protein","Vermeesch et al., 1995"
+FOXO3A ,,,6q21 ,transcription factors,Hillion et al. (1997)
+IL1B ,{Gastric cancer risk after H. pylori infection} ,,2q14.1 ,"INTERLEUKIN, that participate in the regulation of immune responses,
+ inflammatory reactions, and hematopoiesis"," March et al., 1985)"
+,,,,,
+VHL ,"1. Erythrocytosis, familial, 2 	
+2. Hemangioblastoma, cerebellar, somatic 			
+3. Pheochromocytoma 	
+4. Renal cell carcinoma, somatic 	
+5. von Hippel-Lindau syndrome ","AR
+
+AD
+
+AD",3p25.3 ,"tumor suppression The protein products of the VHL 
+gene play a role in the oxygen-sensing pathway","Nordstrom-O'Brien et al., 2010"
+TGFB1 ,"1. Camurati-Engelmann disease 
+2. Inflammatory bowel disease, 
+immunodeficiency, and encephalopathy 
+3. {Cystic fibrosis lung disease, modifier of} ","AD
+AR
+AR",19q13.2 ,"TRANSFORMING GROWTH FACTOR, is a multifunctional peptide
+ that controls proliferation, differentiation, and other functions in many cell types.","Sporn et al., 1986 and Derynck et al., 2001"
+PPARGC1A ,,,4p15.2 ,"coactivator of nuclear receptors and other transcription factors 
+that regulate metabolic processes","Lin et al., 2004"
+,,,,,
+MAP3K3 ,,,17q23.3 ,kinase in signaling pathway,Ellinger-Ziegelbauer et al. (1997)
+FIGF ,,,Xp22.2 ,VASCULAR ENDOTHELIAL GROWTH FACTOR,"Yamada et al., 1997"
+MACIR ,,,5q21.1 ,MACROPHAGE IMMUNOMETABOLISM REGULATOR,Mathana et al. (2015)
+PLXDC1 ,,,17q12 ,"PLEXIN DOMAIN-CONTAINING PROTEIN
+tumor endothelial marker  that displayed elevated expression during tumor angiogenesis.",St Croix et al. (2000)
+RGS5 ,[Blood pressure regulation QTL] ,Mu,1q23.3 ,REGULATOR OF G PROTEIN SIGNALING,Seki et al. (1998)
+NOL7 ,,,6p23 ,NUCLEOLAR PROTEIN,Hasina et al. (2006)
+PAEP ,,,9q34.3  ,"plays an immunosuppressive function in embryo implantation
+ and tumor development, ","Song et al., 2001"
+MAP4K4 ,,,2q11.2 ,kinase in signaling pathway,Yao et al. (1999)
+MMP15 ,,,16q21,"MATRIX METALLOPROTEINASE 
+that degrade various components of the extracellular matrix",Will and Hinzmann (1995)
+MMP16 ,,,8q21.3 ,"MATRIX METALLOPROTEINASE 
+that degrade various components of the extracellular matrix",Takino et al. (1995)
+MIR558 ,,,2p22.3 ,"MICRO RNA, can promote gene expression ","Qu et al., 2015"
+IGFBP2 ,,,2q35,GROWTH FACTOR,"Wood et al., 1988"
+ISM2 ,,,14q24.3 ,"cell adhesion, cell angiogenesis, and patterning of developing nervous system.",Rossi et al. (2004)
+WASF2 ,,,1p36.11  ,"WASP PROTEIN FAMILY,expression in all tissues except skeletal muscle,
+ binds actin",Suetsugu et al. (1999)
+FILIP1L ,,,3q12.1  ,FILAMIN A-INTERACTING PROTEIN,Kwon et al. (2008) 
+MIR30B ,,,8q24.22  ,"MICRO RNA controls endothelial cell capillary morphogenesis
+ through regulation of transforming growth factor beta-2 ","Howe et al., 2017"
+ADAMTS8 ,,,11q24.3,antiangiogenic,Vazquez et al. (1999)
+MIR9-3 ,,,15q26.1 ,"MICRO RNA , 
+upregulated in a human neuroblastoma cell line by retinoic acid","Lagos-Quintana et al., 2002"
+HOXB9 ,,,17q21.32 ,"HOMEOBOX, involved in the regulation of embryonal development","Nagel et al., 2007"
+PHB ,"{Breast cancer, susceptibility to} "," AD, SMu ",17q21.33 ,"PROHIBITIN, antiproliferative protein","White et al., 1991"
+MMP26,,,11p15.4 ,"MATRIX METALLOPROTEINASE, 
+degrade various components of the extracellular matrix","de Coignac et al., 2000"
+ZKSCAN3 ,,,6p22.1 ,"ZINC FINGER PROTEIN, upregulated in primary colorectal tumors",Wang et al. (2004)
+HIF1AN ,,,10q24.31,"HYPOXIA-INDUCIBLE FACTOR
+promoting erythropoiesis and angiogenesis",Mahon et al. (2001)
+PROK1 ,,,1p13.3  ," induces proliferation, migration, and fenestration in capillary endothelial cells derived from endocrine glands",LeCouter et al. (2001) 
+MACC1 ,,,7p21.1 ,regulator of the hepatocyte growth factor receptor,"Stein et al., 2009"
+MDK ,,,11p11.2 ,"retinoic acid-responsive, heparin-binding growth factor","Reynolds et al., 2004"
+RNASE9 ,,,14q11.2 ,"RIBONUCLEASE, degradation of dietary RNA, angiogenesis, and innate immunity","Cheng et al., 2009"
+,,,,Burnichon et al. (2010),
+NUDT6 ,,,4q28.1 ,"growth factor involved in neuroectoderm development,
+ angiogenesis, and wound healing","Asa et al., 2001"
+CXCL17 ,,,19q13.2   ,CHEMOKINE LIGAND,Pisabarro et al. (2006)
+FGF2 ,,,4q28.1,FIBROBLAST GROWTH FACTOR,"Ortega et al., 1998"
+LPAR2 ,,,19p13.11 ,"LYSOPHOSPHATIDIC ACID RECEPTOR, 
+are important extracellular signaling molecules","Chun et al., 2002"
+MIR19B1 ,,,13q31.3 ,"MICRO RNA, 
+functions in cell survival, proliferation, differentiation, and angiogenesis","Olive et al., 2009"
+RASD2 ,,,22q12.3 ," Ras-related protein, components of signal transduction cascades",St. Croix et al. (2000)
+ADAMTS1 ,,,21q21.3 ,a family of proteins anchored to the extracellular matrix,Dagoneau et al. (2004)
+LYL1 ,"Leukemia, T-cell acute lymphoblastoid ",,19p13.13 , transcription factors and has a role in angiogenesis,"(Pirot et al., 2010)"
+GDF2 ,"Telangiectasia, hereditary hemorrhagic, type 5 ",AD,10q11.22 ,GROWTH/DIFFERENTIATION FACTOR,"Miller et al., 2000"
+HPSE ,,,4q21.23 ,"HEPARANASE ,cleave the heparan sulfate side chain"," McKenzie et al., 2000"
+IL20 ,,,1q32.1 ,"INTERLEUKIN,",Blumberg et al. (2001) 
+ADAMTS20 ,,,12q12 ,"a family of proteins anchored to the extracellular matrix,
+involved in tissue remodeling.",Somerville et al. (2003)
+TNS3 ,,,7p12.3  ,tumor endothelial marker,St Croix et al. (2000)
+FGF19 ,,,11q13.3 ,FIBROBLAST GROWTH FACTOR,"(Nishimura et al., 1999)"
+APELA ,,,4q32.3 ,critical for heart morphogenesis,"(Chng et al., 2013)"
+IGFBP7 , 	Retinal arterial macroaneurysm with supravalvular pulmonic stenosis ,AR,4q12 ,INSULIN-LIKE GROWTH FACTOR-BINDING PROTEIN, Murphy et al. (1993) 
+MSN ,Immunodeficiency 50 ,XLR,Xq12 ,"stabilizing cell surface projections including microvilli,
+ filopodia, and lamellipodia","Shcherbina et al., 1999"
+MMP19 ,Cavitary optic disc anomalies ,AD,12q13.2 ,"MATRIX METALLOPROTEINASE, 
+degrade various components of the extracellular matrix",Cossins et al. (1996)
+HEBP1 ,,,12p13.1  ,HEME-BINDING PROTEIN ,"Blackmon et al., 2002"
+SFRP2 ,,,4q31.3 ,"transmembrane protein, receptors for Wnt family members",Melkonyan et al. (1997)
+SVBP ,"Neurodevelopmental disorder with ataxia, hypotonia, and microcephaly ",AR,1p34.2,antiangiogenic activity,"Suzuki et al., 2010"
+FGF16 ,Metacarpal 4-5 fusion ,XLR,Xq21.1 ,FIBROBLAST GROWTH FACTOR,Miyake et al. (1998)
+RGCC ,,, 13q14.11 ,REGULATOR OF CELL CYCLE,Badea et al. (2002)
+BIRC2 ,,,11q22.2, inhibitor-of-apoptosis protein family,Rothe et al. (1995)
+BATF2 ,,,11q13.1 ,downregulates cell growth,"Su et al., 2008"
+NTN4 ,,,12q22,a family of proteins related to laminins,Koch et al. (2000
+HAND2,,,4q34.1,transcription factor that is expressed in heart ,"Russell et al., 1998"
+CCL11 ,"{Asthma, susceptibility to} 
+{HIV1, resistance to} ","AD
+",17q12,CHEMOKINE,Ponath et al. (1996)
+LPAR1 ,,,9q31.3,LYSOPHOSPHATIDIC ACID RECEPTOR,"Chun et al., 2002"
+SEMA4D ,,,9q22.2,"axon guidance, immune response, cell migration, cell-cell communication, tissue development, and angiogenesis","Negishi-Koga et al., 2011"
+KLF5 ,,,13q22.1 , transcription factor,Sogawa et al. (1993)
+EFNA1 ,,,1q22 ,ligands that bind to the EPH group of receptor tyrosine kinases,"Cerretti et al., 1996"
+F3 ,,,1p21.3 ,COAGULATION FACTOR,Davie et al. (1991)
+SARS1 ,"?Neurodevelopmental disorder with microcephaly, ataxia, and seizures ",AR,1p13.3,SERYL-tRNA SYNTHETASE ,Vincent et al. (1997)
+PKNOX1 ,,,21q22.3  ,"transcription factors that form transcriptionally active complexes
+ involved in development and organogenesis ","Ferretti et al., 2006"
+BIRC6 ,,,2p22.3 ,inhibitors of apoptosis, Chen et al. (1999)
+DOCK1 ,,,10q26.2 ,guanine-nucleotide exchange factors that activate the small G proteins ,"Sanders et al., 2009"
+STC1,,,8p21.2 ,"angiogenesis, bone and muscle development, and cellular metabolism","Nguyen et al., 2009"
+ HIF3A ,,, 19q13.32,"HYPOXIA-INDUCIBLE FACTOR, transcription factors that regulate adaptive responses to low oxygen tension","Hara et al., 2001"
+FASLG,"1. Autoimmune lymphoproliferative syndrome, type IB 
+2. {Lung cancer, susceptibility to} ","AD
+ AD, SMu ",1q24.3 ,"cell death,Apoptosis",Suda et al. (1993)
+SCG2 ,,,2q36.1 ," involved in chemotaxis of monocytes and endothelial cells 
+and in regulation of endothelial cell proliferation","Dunzendorfer et al., 1998"
+HYOU1 ,?Immunodeficiency 59 and hypoglycemia ,AR,11q23.3 ,oxygen-regulated protein,Kuwabara et al. (1996)
+,,,,,
+CEACAM1,,,19q13.2 ,CEA CELL ADHESION MOLECULE,Thompson et al. (1991)
+TFCP2 ,,,12q13.12-q13.13 ,TRANSCRIPTION FACTOR,Swendeman et al. (1994)
+ALKBH8 ," 	Intellectual developmental disorder, autosomal recessive 71 ",AR,11q22.3 ,tRNA METHYLTRANSFERASE,"Fu et al., 2010"
+SEMA3A,{Hypogonadotropic hypogonadism 16 with or without anosmia} ,AD,7q21.11 ,"chemorepulsive agent, inhibiting axonal outgrowth,
+ or as a chemoattractive agent, stimulating the growth of apical dendrites",Takahashi et al. (1999)
+LAMA4 ,"Cardiomyopathy, dilated, 1JJ ",AD,6q21  ,LAMININ,"Richards et al., 1994"
+ADM ,,,11p15.4,"function as a hormone,angiogenesis and 
+increasing the tolerance of cells to oxidative stress and hypoxic injury","Fernandez et al., 2008"
+GNA13 ,,,17q24.1 ,GUANINE NUCLEOTIDE-BINDING PROTEIN,"Kabouridis et al., 1995"
+ ELMO1 ,,,7p14.2-p14.1  ,promote activation of the small GTPase,"Stevenson et al., 2014"
+FST ,,,5q11.2 ,regulator of activin and other members of the TGF-beta,"Schneyer et al., 2004"
+ADAMTS9 ,,,3p14.1 ,"cleavage of proteoglycans, the control of organ shape
+ during development, and the inhibition of angiogenesis",Clark et al. (2000)
+EGLN1 ," 	1. Erythrocytosis, familial, 3 
+2. [Hemoglobin, high altitude adaptation] ","AD
+AD",1q42.2 ,"hypoxia-inducible transcription factors,
+ play a central role in mammalian oxygen homeostasis","Epstein et al., 2001"
+FGF17,Hypogonadotropic hypogonadism 20 with or without anosmia ,AD,8p21.3 ,FIBROBLAST GROWTH FACTOR,"Hoshikawa et al., 1998"
+CAMP ,,,3p21.31 ,"promotes inflammation, angiogenesis, wound healing, and tumor metastasis"," Subramanian et al., 2011"
+MMP14 ,Winchester syndrome ,,14q11.2 ,MATRIX METALLOPROTEINASE, Sato et al. (1994)
+NCL ,,,2q37.1 ,"control of transcription of ribosomal RNA ,in ribosome maturation and assembly, 
+and in nucleocytoplasmic transportation of ribosomal components","Srivastava et al., 1989"
+BBC3 ,,,19q13.32 ,"BCL2-BINDING COMPONENT, pro-apoptotic protein",Yu et al. (2001)
+TMSB4X ,,,Xp22.2 ,"inhibits the migration of macrophages, 
+and stimulates the secretion of hypothalamic luteinizing
+ hormone-releasing hormone ","Clauss et al., 1991"
+FGF18 ,,,5q35.1 ,FIBROBLAST GROWTH FACTOR,"Ohbayashi et al., 1998"
+PROX1,,,1q32.3 ,"PROSPERO-RELATED HOMEOBOX
+PROX1 has been shown to interact with EP300
+PROX1 is used as a marker for lymphatic endothelium in biopsy samples",Zinovieva et al. (1996)
+S1PR1,,,1p21.2,SPHINGOSINE-1-PHOSPHATE RECEPTOR,"Hla and Brinkmann, 2011"
+CLIC4 ,,,1p36.11 ,"formation of ion channels in intracellular organelles 
+and roles in membrane trafficking,
+ apoptosis, and cell differentiation "," Chalothorn et al., 2009"
+TYMP,Mitochondrial DNA depletion syndrome 1 (MNGIE type) ,AR, 22q13.33 ,THYMIDINE PHOSPHORYLASE,"Suomalainen and Isohanni, 2010"
+RBPJ ,Adams-Oliver syndrome 3 ,AD,4p15.2 ,"that is an integral part of a signaling pathway known as the Notch pathway.
+ Notch signaling controls how certain types of cells develop
+ in the growing embryo",Amakawa et al. (1993)
+ACVRL1 ,"Telangiectasia, hereditary hemorrhagic, type 2 ",AD, 12q13.13 ,ACTIVIN A RECEPTOR,"ten Dijke et al., 1994"
+FOXM1,,,12p13.33 ,transcription factor, Ye et al. (1997) 
+CEACAM16 ,"1. Deafness, autosomal dominant 4B 
+2. Deafness, autosomal recessive 113 ","AD
+AR",19q13.31-q13.32  ,"adhesion protein,  involved in diverse processes, including tissue architecture/homeostasis, cell growth and differentiation, angiogenesis, and tumor suppression","Zheng et al., 2011"
+CGB ,,,19q13.33 ,"glycoprotein hormone produced by trophoblastic cells of the placenta beginning 10 to 12 days after conception
+ Maintenance of the fetus in the first trimester of pregnancy ","almadge et al., 1983"
+FGF20,?Renal hypodysplasia/aplasia 2,AR,8p22 ,"Fibroblast growth factors, morphogenesis, 
+cellular differentiation, angiogenesis, tissue remodeling,
+ inflammation, and oncogenesis","Kirikoshi et al., 2000"
+H2AFX,,,11q23.3 ,H2A HISTONE FAMILY," Talbert and Henikoff, 2010"
+IL17RD,Hypogonadotropic hypogonadism 18 with or without anosmia,"AD, AR, DD",3p14.3 ,INTERLEUKIN  RECEPTOR,Tsang et al. (2002) and Furthauer et al. (2002)
+PDCD10,Cerebral cavernous malformations-3,AD,3q26.1 ,PROGRAMMED CELL DEATH,Bergametti et al. (2005)
+MTDH,,,8q22.1 ,"involved  angiogenesis, RNA-induced silencing complex (RISC) 
+ interact with spliceosome proteins",Brown and Ruoslahti (2004)
+SERPINC1,Thrombophilia due to antithrombin III deficiency,"AD, AR",1q25.1 ,"ANTITHROMBIN,  inhibitor of thrombin and other coagulation proteinases. ","Lane et al., 1994"
+F2R,,,5q13.3 ,regulation of the thrombotic response,Coughlin et al. (1992)
+ACKR3,?Oculomotor-abducens synkinesis,AR,2q37.3 ,CHEMOKINE RECEPTOR,"Berahovich et al., 2010, Whitman et al., 2019"
+PECAM1,,, 17q23.3 ,"transendothelial migration of leukocytes,
+ angiogenesis, and integrin activation","Newman, 1999"
+ANGPTL3,"Hypobetalipoproteinemia, familial, 2",AR,1p31.3 , growth factors that are specific for vascular endothelium,Conklin et al. (1999)
+MERTK,Retinitis pigmentosa 38,AR,2q13 ,tyrosine kinase, Graham et al. (1994)
+FAS,"1. Autoimmune lymphoproliferative syndrome, type IA
+2. Squamous cell carcinoma, burn scar-related, somatic
+3. {Autoimmune lymphoproliferative syndrome}","AD
+
+AD",10q23.31," provides instructions for making a protein that is involved in cell signaling
+This signaling initiates a process called a caspase cascade",Itoh et al. (1991)
+FGF9,Multiple synostoses syndrome 3,AD,13q12.11,FIBROBLAST GROWTH FACTOR,"Miyamoto et al., 1993; Mattei et al., 1995"
+EPO,"1. Diamond-Blackfan anemia-like
+2. Erythrocytosis, familial, 5
+3. {Microvascular complications of diabetes 2}","AR
+AD",7q22.1,ERYTHROPOIETIN,Lee-Huang (1984)
+CPT1A,"CPT deficiency, hepatic, type IA",AR,11q13.3 ,involved in fatty acid oxidation,"Bieber, 1988; Murthy and Pande, 1987"
+IGFBP3,,,7p12.3 ,regulating cell proliferation and apoptosis,"Ferry et al., 1999"
+ANTXR1,"1. GAPO syndrome
+2. Hemangioma, capillary infantile, susceptibility to}","AR
+AD",2p13.3 ,transmembrane protein and is a tumor-specific endothelial marker,St. Croix et al. (2000)
+IPO8,VISS syndrome,AR,12p11.21  ,"IMPORTIN,  inhibits the GAP stimulation of the Ran GTPase.", Gorlich et al. (1997)
+PDGFB,"	1. Basal ganglia calcification, idiopathic, 5
+2. Dermatofibrosarcoma protuberans
+3. Meningioma, SIS-related","AD
+
+AD",22q13.1,GROWTH FACTOR, Dalla-Favera et al. (1981)
+SETD1B,Intellectual developmental disorder with seizures and language delay,AD,12q24.31 ,histone methyltransferase complex,"Lee et al., 2007; Hiraide et al., 2018"
+NUS1,"1. Congenital disorder of glycosylation, type 1aa
+2. Mental retardation, autosomal dominant 55, with seizures","AR
+AD",6q22.1 ,"involved in the synthesis of dolichol, which is necessary for protein glycosylation ","Park et al., 2014"
+MIR34A,,,1p36.22 ,"MICRO RNA, promoting RNA degradation, inhibiting mRNA translation, and altering transcription","Raver-Shapira et al., 2007"
+PDGFRB,"1. Basal ganglia calcification, idiopathic, 4
+2. Kosaki overgrowth syndrome
+3. Myeloproliferative disorder with eosinophilia
+4. Myofibromatosis, infantile, 1
+5. Premature aging syndrome, Penttinen type
+","AD
+AD
+AD
+AD
+AD",5q32 ,growth factor receptor," Nicolas et al., 2013"
+DYRK1A,"Mental retardation, autosomal dominant 7",AD,21q22.13, tyrosine phosphorylation-regulated kinase (DYRK) family and participates in various cellular processes.,"Bon et al., 2011"
+YARS1,"1. Charcot-Marie-Tooth disease, dominant intermediate C
+2. Infantile-onset multisystem neurologic, endocrine, and pancreatic disease 2","AD
+AR",1p35.1 ,tRNA SYNTHETASE," Williams et al., 2019"
+MED1,,,17q12 ,"Mediator  that is required by DNA-binding transcription factors
+ for activation of polymerase II"," Sato et al., 2004"
+RTN4,,,2p16.1," myelin-associated neurite growth inhibitory protein
+in the central nervous system",Spillmann et al. (1998)
+EIF2AK4,Pulmonary venoocclusive disease 2,AR,15q15.1 ,"kinases that phosphorylate eukaryotic translation initiation factor-2 
+to downregulate protein synthesis in response to varied cellular stresses ","Berlanga et al., 1999"
+TEK,"1. Glaucoma 3, primary congenital, E
+2. Venous malformations, multiple cutaneous and mucosal","AD
+AD",9p21.2 ,plays a unique role within this cell lineage,"Dumont et al., 1992; Sato et al., 1993"
+CXCR3,,,Xq13.1 ,CHEMOKINE RECEPTOR ,"Erhardt et al., 2011"
+NOTCH2,"1. Alagille syndrome 2
+2. Hajdu-Cheney syndrome
+","AD
+AD",1p12  ,"Notch family members play a role in a variety 
+of developmental processes by controlling cell fate decisions","Isidor et al., 2011"
+FLI1,"Bleeding disorder, platelet-type, 21","AD, AR",11q24.3  ,"plays an essential role in embryogenesis, vascular development, and megakaryopoiesis ","Hart et al., 2000"
+TAL1,"Leukemia, T-cell acute lymphocytic, somatic",,1p33 ,"transcriptionally complex gene that is expressed throughout development,
+ activating or repressing transcription in hematopoietic,
+ neural, and endothelial precursors"," Hosur et al., 2013"
+EFNB1,Craniofrontonasal dysplasia,XLD,Xq13.1 ,receptor protein-tyrosine kinases. ,Davis et al. (1994)
+IL6ST,"Hyper-IgE recurrent infection syndrome 4, autosomal recessive",AR,5q11.2  ,"INTERLEUKIN, SIGNAL TRANSDUCER", Kishimoto et al. (1994)
+RAF1,"	1. Cardiomyopathy, dilated, 1NN
+2. LEOPARD syndrome 2
+3. Noonan syndrome 5","AD
+
+AD",3p25.2 ,"PROTOONCOGENE, SERINE/THREONINE KINASE",Rapp et al. (1983)
+PLA2G6,"1. Infantile neuroaxonal dystrophy 1
+2. Neurodegeneration with brain iron accumulation 2B
+3. Parkinson disease 14, autosomal recessive","AR
+AR
+AR",22q13.1 ,PHOSPHOLIPASE,"Forsell et al., 1999"
+SIRT1,,,10q21.3  ,"stress-response and chromatin-silencing factor, 
+ histone deacetylase involved in various nuclear events such as transcription, 
+DNA replication, and DNA repair","Abdelmohsen et al., 2007"
+IL23A,,,12q13.3 ,INTERLEUKIN,"Oppmann et al., 2000"
+TREX1,"1. Aicardi-Goutieres syndrome 1, dominant and recessive
+2. Chilblain lupus
+3. Vasculopathy, retinal, with cerebral leukoencephalopathy and systemic manifestations
+4. {Systemic lupus erythematosus, susceptibility to}","AD, AR
+AD
+AD
+
+AD",3p21.31  ,3-PRIME REPAIR EXONUCLEASE,"Mazur and Perrino, 1999"
+COL4A1,"1. Retinal arteries, tortuosity of
+2. Angiopathy, hereditary, with nephropathy, aneurysms, and muscle cramps
+3. Brain small vessel disease with or without ocular anomalies
+4. Microangiopathy and leukoencephalopathy, pontine, autosomal dominant
+5. {Hemorrhage, intracerebral, susceptibility to}","AD
+AD
+
+AD
+AD
+",13q34 ,COLLAGEN,Crouch et al. (1980) 
+EPAS1,"Erythrocytosis, familial, 4",AD, 2p21,"regulator of vascularization, perhaps involving the regulation of endothelial cell gene expression in response to hypoxia",Tian et al. (1997) 
+NOS2,"{Malaria, resistance to}",, 17q11.2 ,"NITRIC OXIDE SYNTHASE, Nitric oxide (NO) is a messenger molecule","Lowenstein et al., 1992"
+IL6,"1. {Crohn disease-associated growth failure}	
+2. {Intracranial hemorrhage in brain cerebrovascular malformations, susceptibility to}	
+3. {Kaposi sarcoma, susceptibility to}	
+4. {Rheumatoid arthritis, systemic juvenile}	
+5. {Type 1 diabetes mellitus}	
+6. {Type 2 diabetes mellitus}","Mu
+SMu
+
+AD
+
+AR
+AD
+
+",7p15.3 ,"INTERLEUKIN, immunoregulatory cytokine","Boulanger et al., 2003"
+SMPD1,"1. Niemann-Pick disease, type A
+2. Niemann-Pick disease, type B","AR
+AR",11p15.4 ,sphingomyelinase,Quintern et al. (1989) 
+HRAS,"1. Bladder cancer, somatic	
+2. Congenital myopathy with excess of muscle spindles		
+3. Costello syndrome	
+4. Nevus sebaceous or woolly hair nevus, somatic	
+5. Schimmelpenning-Feuerstein-Mims syndrome, somatic mosaic	
+6. Spitz nevus or nevus spilus, somatic	
+7. Thyroid carcinoma, follicular, somatic","
+AD
+AD",11p15.5 ,"PROTOONCOGENE, GTPase",Wong-Staal et al. (1981)
+PML,"Leukemia, acute promyelocytic, PML/RARA type",,15q24.1 ,"tumor suppressor,  involved in diverse cellular functions,
+ including sequestration and release of proteins, mediation of 
+posttranslational modifications, and promotion of nuclear events
+ in response to various cellular stresses","Bernardi and Pandolfi, 2007; Salomoni et al., 2008"
+SDHD,"1. Mitochondrial complex II deficiency, nuclear type 3
+2. Paraganglioma and gastric stromal sarcoma
+3. Paragangliomas 1, with or without deafness
+4. Pheochromocytoma","AR
+
+AD
+AD
+",11q23.1 ,succinate-ubiquinone oxidoreductase, Hirawake et al. (1997)
+SDHB,"1. Gastrointestinal stromal tumor	
+2. Mitochondrial complex II deficiency, nuclear type 4
+3. Paraganglioma and gastric stromal sarcoma	
+4. Paragangliomas 4	
+5. Pheochromocytoma","AD, IC
+AR
+
+AD
+AD
+",1p36.13  ,succinate dehydrogenase,Kita et al. (1990)
+RAC1,"Mental retardation, autosomal dominant 48",AD,7p22.1 ,"encodes a RHO GTPase involved in modulation of the
+ cytoskeleton which plays a role in multiple cellular functions, including phagocytosis, mesenchymal-like migration, neuronal polarization, axonal growth, and differentiation of multiple cell types"," Reijnders et al., 2017"
+BAX,"1. Colorectal cancer, somatic
+2. T-cell acute lymphoblastic leukemia, somatic",,19q13.33 , cell death,Oltvai et al. (1993)
+ACKR1,"1. [Blood group, Duffy system]
+2. [White blood cell count QTL]
+3. {Malaria, vivax, protection against}","AD, AR
+AR",1q23.2 ," chemokine receptor , plays a role in inflammatory reactions
+serves as the erythroid receptor for the human malarial parasite
+ Plasmodium vivax", Pogo and Chaudhuri (2000)
+GRN,"1. Aphasia, primary progressive
+2. Ceroid lipofuscinosis, neuronal, 11
+3. Frontotemporal lobar degeneration with ubiquitin-positive inclusions","AD
+AR
+AD",17q21.31 ,autocrine growth factor.,"Serrero, 2003"
+LEPR,"Obesity, morbid, due to leptin receptor deficiency",AR,1p31.3 ,LEPTIN RECEPTOR,Tartaglia et al. (1995)
+STK11,"1. Melanoma, malignant, somatic	
+2. Pancreatic cancer, somatic	
+3. Peutz-Jeghers syndrome	
+4. Testicular tumor, somatic","
+
+AD
+
+
+
+
+
+",19p13.3 ,serine/threonine kinase that regulates energy metabolism and cell polarity ,"Xu et al., 2013"
+TP63,"1. ADULT syndrome	
+2. Ectrodactyly, ectodermal dysplasia, and cleft lip/palate 
+syndrome 3	
+3. Hay-Wells syndrome	
+4. Limb-mammary syndrome	
+5. Orofacial cleft 8	
+6. Rapp-Hodgkin syndrome	
+7. Split-hand/foot malformation 4","AD
+AD
+
+AD
+AD
+
+AD
+AD",3q28 ,"tumor protein, transactivate p53 reporter genes and induce apoptosis",Yang et al. (1998) 
+CDH1,"1. Blepharocheilodontic syndrome 1	
+2. Endometrial carcinoma, somatic	
+3. Gastric cancer, hereditary diffuse, with or without cleft lip and/or palate	
+4. Ovarian cancer, somatic	
+5. {Breast cancer, lobular}	
+6. {Prostate cancer, susceptibility to}","AD
+
+AD
+
+
+AD, SMu
+AD, SMu",16q22.1  ,"CADHERIN, a calcium ion-dependent cell adhesion molecule that functions
+ in the establishment and maintenance of epithelial cell morphology during
+ embryogenesis and adulthood"," Riethmacher et al., 1995"
+KRAS,"	1. Arteriovenous malformation of the brain, somatic	
+2. Bladder cancer, somatic	
+3. Breast cancer, somatic	
+4. Cardiofaciocutaneous syndrome 2	
+5. Gastric cancer, somatic	
+6. Leukemia, acute myeloid, somatic	
+7. Lung cancer, somatic	
+8. Noonan syndrome 3	
+9. Oculoectodermal syndrome, somatic	
+10.Pancreatic carcinoma, somatic	
+11.RAS-associated autoimmune leukoproliferative disorder		
+12. Schimmelpenning-Feuerstein-Mims syndrome, somatic mosaic","
+
+
+AD
+
+
+
+AD
+
+
+AD",12p12.1,"PROTOONCOGENE, GTPase. intracellular signal transducers","Weinberg, 1982; Kranenburg, 2005"
+MTOR,"1. Focal cortical dysplasia, type II, somatic
+2. Smith-Kingsmore syndrome","
+AD",1p36.22  ,"protein kinase, 
+key regulator of cell growth and proliferation and mRNA translation"," Jacinto et al., 2004 and Thoreen et al., 2012"
+FGFR3,"	1. Achondroplasia	
+2. Bladder cancer, somatic	
+3. CATSHL syndrome	
+4. Cervical cancer, somatic	
+5. Colorectal cancer, somatic	
+6. Crouzon syndrome with acanthosis nigricans	
+7. Hypochondroplasia	
+8. LADD syndrome	
+9. Muenke syndrome	
+10.Nevus, epidermal, somatic	
+11. SADDAN	
+12. Spermatocytic seminoma, somatic	
+13. Thanatophoric dysplasia, type I	
+14. Thanatophoric dysplasia, type II","AD
+--
+AD,AR
+--
+--
+AD
+AD
+AD
+AD
+--
+AD
+--
+AD
+AD",4p16.3 ,"FIBROBLAST GROWTH FACTOR RECEPTOR, 
+ involved in a variety of activities, including mitogenesis, angiogenesis,
+ and wound healing"," Keegan et al., 1991"
+NF1,"Neurofibromatosis, type 1",AD,17q11.2,," Shen et al., 1996 and Williams et al., 2009"
+FMNL2,,,2q23.3  ,regulate actin and cytoskeletal dynamics and cell elongation,"Hetheridge et al., 2012"
+STAB2,,,12q23.3 ,"transmembrane receptor protein which may function in
+ angiogenesis, lymphocyte homing, cell adhesion, or receptor scavenging",Politz et al. (2002)
+HOXA5,,, 7p15.2 ,"regulate gene expression, morphogenesis, and differentiation. 
+suggested that HOXA5 expression is an important step in tumorigenesis. 
+in most of the tumors, lack of HOXA5 expression strongly correlated with methylation of its promoter region",Raman et al. (2000) 
+MIR130A,,,11q12.1,MICRO RNA,"Garzon et al., 2006"
+STAB1,,,3p21.1 ," transmembrane receptor protein which may function in 
+angiogenesis, lymphocyte homing, cell adhesion, or receptor scavenging. ",Politz et al. (2002)
+UQCRB,"Mitochondrial complex III deficiency, nuclear type 3",AR,8q22.1 ,"component of ubiquinol-cytochrome c oxidoreductase
+ in the mitochondrial respiratory chain and plays an important role 
+in electron transfer",Suzuki et al. (1988)
+TNFRSF12A,,,16p13.3 ,Promotes angiogenesis and the proliferation of endothelial cells., Meighan-Mantha et al. (1999)
+AMOTL2,,,3q22.2 ,a circulating inhibitor of the formation of new blood vessels (angiogenesis), Nagase et al. (1999)
+TSGA10,Spermatogenic failure 26,AR,2q11.2  ,critical role in spermatogenesis and contributes to the sheath of sperm tail ,"Miryounesi et al., 2014"
+AMOT,,,Xq23 ,"Role in cell motility and angiogenesis and 
+Role in Hippo signaling pathway
+",Kikuno et al. (1999)
+ITGA9,,,3p22.2 ,"INTEGRIN, cell surface glycoproteins that mediate cell-cell adhesion 
+and cell-matrix adhesion","Palmer et al., 1993"
+CDH5,,,16q21,"CADHERIN, adhesive proteins that mediate cell-to-cell interaction", Huber et al. (1996)
+REM2,,,14q11.2 ,family of RAS -related small GTP-binding proteins,"Finlin et al., 2000"
+P4HA1,,,10q22.1, central role in collagen synthesis,Helaakoski et al. (1989)
+TJP1,,,15q13.1  ,"TIGHT JUNCTION PROTEIN, serve to separate tissue compartments
+ by limiting the ability of solutes, water, and immune cells
+ to traverse the paracellular space"," Willott et al., 1993"
+TNFRSF25,,, 1p36.31 ,Mediates activation of NF-kappa-B and induces apoptosis, Marsters et al. (1996)
+NRP2,,, 2q33.3,"play a role in cardiovascular development, axon guidance, 
+tumorigenesis, inflammation and cardiovascular disease","(Tessier-Lavigne and Goodman, 1996)"
+TNFSF12,,,17p13.1 ,"It works with other proapoptotic TNFSF ligands to facilitate
+ cytotoxicity in many cell types, including activated monocytes,
+ dendritic cells, NK cells, and T cells","Wang et al., 2013"
+DAAM2,"Nephrotic syndrome, type 24",AR,6p21.2 ,regulate actin and cytoskeletal dynamics and cell elongation,"Hetheridge et al., 2012"
+SLC2A10,Arterial tortuosity syndrome,AR,20q13.12 ,plays a significant role in maintaining glucose homeostasis,"McVie-Wylie et al., 2001"
+COL13A1,"Myasthenic syndrome, congenital, 19",AR,10q22.1 ,"nonfibrillar transmembrane collagen that plays an autocrine role
+ in the development and maturation of the neuromuscular junction"," Latvanlehto et al., 2010"
+OTULIN,"Autoinflammation, panniculitis, and dermatosis syndrome",	AR,5p15.2 ,"deubiquitinating enzyme, 
+regulator of angiogenesis and innate immune response ","Keusekotten et al., 2013"
+CD44,"[Blood group, Indian system]",,11p13,"integral cell membrane glycoprotein with a postulated role
+ in matrix adhesion lymphocyte activation and lymph node homing ","Aruffo et al., 1990"
+MIF,"{Rheumatoid arthritis, systemic juvenile, susceptibility to}",,22q11.23,"MACROPHAGE MIGRATION INHIBITORY FACTOR
+","Bloom and Bennett, 1966; David, 1966"
+,,,,,
+NDP,"1. Exudative vitreoretinopathy 2, X-linked
+2. Norrie disease","XLD, XLR
+XLR",Xp11.3 ,growth factor family,"Meindl et al., 1992"
+MAP2K1,"1. Cardiofaciocutaneous syndrome 3
+2. Melorheostosis, isolated, somatic mosaic","AD
+--
+",15q22.31 ,extracellular signal-regulated kinases,"Crews et al., 1992"
+GDF6,"1. Klippel-Feil syndrome 1, autosomal dominant	
+2. Leber congenital amaurosis 17	
+3. Microphthalmia with coloboma 6, digenic	
+4. Microphthalmia, isolated 4	
+5. Multiple synostoses syndrome 4","AD
+AR
+AD
+--
+AD",8q22.1  ,GROWTH/DIFFERENTIATION FACTOR,"Storm et al., 1994; Chang et al., 1994"
+CCL2,"1. {Coronary artery disease, modifier of}
+2. {HIV-1, resistance to}	
+3. {Mycobacterium tuberculosis, susceptibility to}	
+4. {Spina bifida, susceptibility to}","
+
+--
+AD
+
+", 17q12,CHEMOKINE,Yoshimura et al. (1989)
+TLR3,"1. {HIV1 infection, resistance to}
+2. {Immunodeficiency 83, susceptibility to viral infections}","
+AD, AR", 4q35.1 ,"endosomal transmembrane receptor that recognizes double-stranded RNA 
+(dsRNA) and activates signaling cascades that culminate in 
+innate antiviral immunity against a number of viral infections.","Zhou et al., 2010 and Lim et al., 2019"
+MYC,"Burkitt lymphoma, somatic",,8q24.21,"protooncogene ,  regulates expression of numerous target genes 
+that control key cellular functions, including cell growth and
+ cell cycle progression","Dominguez-Sola et al., 2007"
+FGFR1,"1. Encephalocraniocutaneous lipomatosis, somatic mosaic		
+2. Hartsfield syndrome	
+3. Hypogonadotropic hypogonadism 2 with or without anosmia	
+4. Jackson-Weiss syndrome	
+5. Osteoglophonic dysplasia	
+6. Pfeiffer syndrome	
+7. Trigonocephaly 1","
+AD
+AD
+AD
+AD
+AD
+AD",8p11.23 ,FIBROBLAST GROWTH FACTOR RECEPTOR,Ruta et al. (1988)
